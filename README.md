@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/nidhunm&theme=dark)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/nidhunm&theme=tokyonight)](https://git.io/awesome-stats-card)

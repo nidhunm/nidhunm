@@ -2,4 +2,4 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nidhunm?cardType=github&theme=tokyonight&Border=DCDD00&Title=B3DDDD)](https://git.io/awesome-stats-card)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nidhunm&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidhunm&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
